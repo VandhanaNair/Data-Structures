@@ -120,12 +120,3 @@ public class PriorityQueue {
 
 
 
-
-
-
-//data: 56 34 11 23 98
-//prio: 0  1  2  3  4
-//
-//11 98 56 34 23
-
-
